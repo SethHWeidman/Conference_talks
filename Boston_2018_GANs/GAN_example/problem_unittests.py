@@ -94,6 +94,7 @@ def test_discriminator(discriminator, tf_module):
 
 @test_safe
 def test_generator(generator, tf_module):
+    print(tf_module)
     with TmpMock(tf_module, 'variable_scope') as mock_variable_scope:
         z = tf.placeholder(tf.float32, [None, 100])
         out_channel_dim = 5
