@@ -1,6 +1,10 @@
 # Conference_talks
 Repo for talks I've given at conferences, Meetups, and luncheons.
 
+## ODSC_East_2018_GANs
+
+"Latest Developments in GANs" talk to be given at ODSC East on May 4, 2018.
+
 ## ODSC_West_2017_Deep_Learning
 
 "Deep Learning from Scratch using Python" talk given on November 4, 2017 at ODSC West. [Here](https://odsc.com/training/portfolio/deep-learning-scratch-using-python) is a link to the talk description, and [here](https://www.youtube.com/embed/aO-RRjG45X8) is a link to the video of the talk.
@@ -15,4 +19,4 @@ This Keynote presentation has a ton of animations, so I recommend you clone this
 
 ## Boston_2018_GANs
 
-A work-in-progress talk to be delivered on February 1, 2018 at the [Boston Deep Learning Meetup](https://www.meetup.com/Boston-Deep-Learning-Meetup). 
+A work-in-progress talk to be delivered on February 1, 2018 at the [Boston Deep Learning Meetup](https://www.meetup.com/Boston-Deep-Learning-Meetup).
