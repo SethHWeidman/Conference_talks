@@ -3,3 +3,8 @@
 Material for a [talk](https://odsc.com/training/portfolio/latest-developments-in-gans) at ODSC East 2018 in Boston, MA.
 
 **Note:** Code for the `DCGAN_Illustration_PyTorch` example was mostly taken from [here](https://github.com/diegoalejogm/gans). 
+
+## Requirements
+
+[Numpy](http://www.numpy.org)
+[PyTorch](http://pytorch.org) version >=0.4.0
